@@ -1,5 +1,4 @@
 from injectlab.model import generate
-from injectlab.target_app import check_tone
 
 SECRET = "MINION-BANANA-7f3a9x"
 
